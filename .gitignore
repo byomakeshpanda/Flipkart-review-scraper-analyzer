@@ -1,0 +1,5 @@
+env/
+data_files/
+.ipynb_checkpoints/
+__pycache__/
+.gitignore
