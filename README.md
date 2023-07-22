@@ -1,6 +1,5 @@
 # Flipkart Review Scraper and Text Analyzer
 
-![Flipkart Review Scraper and Text Analyzer](pictures/flipkart-logo.png)
 
 ## Overview
 
@@ -19,12 +18,14 @@ This project is a web application built using Streamlit that allows users to scr
 - Python
 - Streamlit
 - Beautiful Soup (bs4)
+- Selenium
 - Pandas
 - NLTK
 - TextBlob
 - Matplotlib
 - Plotly
 - WordCloud
+- LangDetect
 
 ## Contributing
 
